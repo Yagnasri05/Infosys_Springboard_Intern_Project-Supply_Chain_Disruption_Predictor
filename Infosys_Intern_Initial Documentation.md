@@ -1,4 +1,4 @@
-**Understanding of the Problem Statement:**
+## **Understanding of the Problem Statement:**
 
 Supply chain disruptions, caused by factors like global events, demand fluctuations, and logistical challenges, lead to inventory imbalances, increased costs, and lost revenue. An AI-driven system is needed to predict disruptions and optimize inventory management to mitigate these risks and ensure operational continuity.
 
