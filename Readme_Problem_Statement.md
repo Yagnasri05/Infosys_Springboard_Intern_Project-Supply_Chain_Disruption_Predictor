@@ -1,0 +1,4 @@
+# AI-Driven Supply Chain Disruption Predictor and Inventory Optimization System
+
+# Problem Statement:
+This project aims to develop an advanced AI-powered system that revolutionizes supply chain management by monitoring global supply chain data, predicting potential disruptions, and optimizing inventory levels accordingly. By leveraging LLMs like OpenAI GPT, Meta LLaMA for natural language processing and data analysis, integrating with Google Sheets, and utilizing Slack or Email for real-time alerts, the system will provide predictive insights on supply chain risks and automate inventory adjustments. This comprehensive solution will enable businesses to proactively manage supply chain disruptions, optimize inventory levels, and maintain operational continuity in the face of global uncertainties.
