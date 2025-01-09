@@ -5,16 +5,16 @@
 ## **Data Sources and Datasets:**
 
 1. **Collected Data:** Extracted from the Event Registry API focusing on semiconductors.  
-   * URL: `/content/drive/MyDrive/semiconductor_supply_chain_data.csv`  
+   * URL: https://docs.google.com/spreadsheets/d/1R7zOBjhOKyHyeB1cD9MoGmr28zQtW2EmgLqkRB9nqdE/edit?usp=sharing
    * Columns: `Keyword`, `Title`, `Source`, `URL`, `Summary`, `Location`, `Delays`, `Reason`, `Duration`  
 2. **Risk Factorized Data (Textual Only):**  
-   * URL: `/content/drive/MyDrive/updated_risk_factorized_data.csv`  
+   * URL: https://docs.google.com/spreadsheets/d/1o392c3ELatpuU5CeqViLvN-qpYh_XqaDi2J1qemV-C8/edit?usp=sharing  
    * Adds `Textual Risk` and `Risk Label`.  
 3. **Merged Product Data:**  
-   * URL: `/content/drive/MyDrive/Product_merged_supply_chain_data.csv`  
+   * URL: https://docs.google.com/spreadsheets/d/1rjisc2vbaXogklmNAB_5QaO9v8FoHP4EOoOZvLdK9MY/edit?usp=sharing 
    * Combines numerical data (`Inventory Level`, `Lead Time`, etc.) with textual insights.  
 4. **Final Risk Factorized Dataset:**  
-   * URL: `/content/drive/MyDrive/Product_risk_factorized_data.csv`  
+   * URL: https://docs.google.com/spreadsheets/d/1R7zOBjhOKyHyeB1cD9MoGmr28zQtW2EmgLqkRB9nqdE/edit?usp=sharing
    * Combines computed risk factors with dynamic thresholds and risk labels.
 
 ### **Risk Factorization:**
