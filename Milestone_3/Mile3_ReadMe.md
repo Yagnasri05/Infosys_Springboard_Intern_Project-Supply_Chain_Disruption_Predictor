@@ -1,4 +1,4 @@
-# Key functionalities of milestone 3:
+## Key functionalities of milestone 3:
 - Predicting potential disruptions based on various risk factors.
 - Automating stock updates based on the model's predictions.
 - Offering insights into current inventory status.
@@ -31,7 +31,7 @@
      - Inventory updates, including stock, damaged goods, transport delays, and sales.
      - Visualization of inventory status using a bar chart.
 
-# Inventory Management Functions:
+## Inventory Management Functions:
 
 - `predict_risk`: Predicts the risk factor for the product based on the user input for inventory level, lead time, news sentiment, and textual risk. It assigns a risk label (High, Medium, Low).
 - `update_inventory`: Updates inventory levels and generates alerts for stock levels (below minimum, above capacity).
