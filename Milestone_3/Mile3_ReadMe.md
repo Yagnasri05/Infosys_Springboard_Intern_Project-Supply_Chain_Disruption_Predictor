@@ -1,5 +1,4 @@
 # Key functionalities of milestone 3:
-
 - Predicting potential disruptions based on various risk factors.
 - Automating stock updates based on the model's predictions.
 - Offering insights into current inventory status.
