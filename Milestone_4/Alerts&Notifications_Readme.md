@@ -13,7 +13,7 @@ Slack notifications are integrated to send alerts based on critical situations l
 
 1. **Python Libraries**: `Gradio, Joblib, Scikit-learn, Pandas, Numpy, Ipywidgets, Sqlite3, matplotlib, slack-sdk`  
 2. **Software**:  
-   * Python 3.x  
+   * Python 3.11
    * Google Colab (for easy deployment and access to resources)  
 3. **Dataset**:  
    * A dataset (`Product_risk_factorized_data.csv`) containing inventory data such as inventory levels, lead time, news sentiment, textual risk, and computed risk factors.
