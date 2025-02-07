@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a148e2e-824f-409c-b766-18b12455a4ee)# Risk Factorization:
+# Risk Factorization:
 - Textual Risk: Sentiment analysis of the Summary column determines whether the text reflects a negative or positive sentiment. Negative sentiment contributes more to the risk factor.
 - Computed Risk Factor: Combines the normalized numerical columns (Inventory Level, Lead Time, etc.) with the textual risk for a holistic risk factor.
 - Risk Labels: Categorizes risk into High, Medium, or Low based on the computed risk factor.
