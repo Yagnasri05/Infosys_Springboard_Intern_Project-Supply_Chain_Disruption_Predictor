@@ -42,7 +42,6 @@
   - Risk is calculated as a weighted combination of the scores.
 - Output:
   - A normalized risk factor (Risk Factor) and corresponding Risk Label (High, Medium, Low).
-  - Output data: https://docs.google.com/spreadsheets/d/1DFX-rwkELk6oxoYGadpEcfx-Y1h0sGtFGOzde9MVsUg/edit?usp=sharing
   - Summarization:
     - Model Used: facebook/bart-large-cnn, a transformer-based summarization model.
     - Dynamic Query Support: Users can input any query, and the summarization model generates insights.
