@@ -1,4 +1,4 @@
-# Risk Factorization:
+![image](https://github.com/user-attachments/assets/8a148e2e-824f-409c-b766-18b12455a4ee)# Risk Factorization:
 - Textual Risk: Sentiment analysis of the Summary column determines whether the text reflects a negative or positive sentiment. Negative sentiment contributes more to the risk factor.
 - Computed Risk Factor: Combines the normalized numerical columns (Inventory Level, Lead Time, etc.) with the textual risk for a holistic risk factor.
 - Risk Labels: Categorizes risk into High, Medium, or Low based on the computed risk factor.
@@ -10,7 +10,7 @@
 ## Outputs - Hugging Face Models:
 - Risk Factorization:
   - Dataset saved as risk_factorized_data.csv with additional columns:
-    - Output data path: https://docs.google.com/spreadsheets/d/1P7h2xe7Bsw0YWgEfYGZGI_OLQr7zGNoS8i_kzKTRG-g/edit?usp=sharing
+    - Output data path: https://docs.google.com/spreadsheets/d/1cDmNxprx0npX_smye_oS6JyPX_7B18d_PJe_x8vv7x8/edit?usp=sharing
     1. Textual Risk
     2. Computed Risk Factor
     3. Risk Label (High, Medium, Low)
